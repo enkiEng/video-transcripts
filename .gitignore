@@ -1,0 +1,39 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*.swn
+*~
+.vim/
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+.~lock.*
+
+# Personal drafts (uncomment if you want to keep drafts local)
+# drafts/
+# *-draft.md
+# scratch/
+
+# Node modules (if you add any automation scripts)
+node_modules/
+
+# Python (if you add any scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
